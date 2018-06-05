@@ -16,4 +16,4 @@ $ cd recon
 ```
 $ dotnet run -- [INPUT_PATH] [OUTPUT_PATH]
 ```
-The program will read the text file from `INPUT_PATH` and save the output to `OUTPUT_PATH`. If neither is given, it will use the sample file in `recon.in` and output to `recon.out` in the project directory.
+The program will read the text file from `INPUT_PATH` and save the output to `OUTPUT_PATH`. If neither is given, it will use the `recon.in` file and output to `recon.out` in the project directory.
